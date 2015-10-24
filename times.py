@@ -1,7 +1,7 @@
 import time
 
-__author__ = 'dracodoc'
-# measure script time duration in segments. http://dracodoc.github.io/
+__author__ = 'dracodoc' # http://dracodoc.github.io/
+# measure script time duration in segments. 
 # the clock value list: start, segments, end
 # usage: import times, put times.start, seg_start, end etc in line.
 T = []
